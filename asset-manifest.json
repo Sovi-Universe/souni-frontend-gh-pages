@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.85bebb22.chunk.js": "/static/js/0.85bebb22.chunk.js",
-    "main.css": "/static/css/main.3ca449ee.chunk.css",
-    "main.js": "/static/js/main.95f62d49.chunk.js",
+    "main.css": "/static/css/main.4b3c8a3c.chunk.css",
+    "main.js": "/static/js/main.1eac0732.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.907bb3fc.js",
     "static/css/3.9ad4f97d.chunk.css": "/static/css/3.9ad4f97d.chunk.css",
     "static/js/3.c5bb3c73.chunk.js": "/static/js/3.c5bb3c73.chunk.js",
@@ -92,14 +92,13 @@
     "static/media/play-btn.caf905e5.png": "/static/media/play-btn.caf905e5.png",
     "static/media/playtoearn-bg.84ef5558.png": "/static/media/playtoearn-bg.84ef5558.png",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
-    "static/media/souni-logo.9081b837.png": "/static/media/souni-logo.9081b837.png",
     "static/media/title-home.ffadfd9c.png": "/static/media/title-home.ffadfd9c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.907bb3fc.js",
     "static/css/3.9ad4f97d.chunk.css",
     "static/js/3.c5bb3c73.chunk.js",
-    "static/css/main.3ca449ee.chunk.css",
-    "static/js/main.95f62d49.chunk.js"
+    "static/css/main.4b3c8a3c.chunk.css",
+    "static/js/main.1eac0732.chunk.js"
   ]
 }
