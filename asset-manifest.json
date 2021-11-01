@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
-    "main.css": "/static/css/main.2bf87f56.chunk.css",
-    "main.js": "/static/js/main.d0d2cae8.chunk.js",
+    "main.css": "/static/css/main.102754d8.chunk.css",
+    "main.js": "/static/js/main.5c62aa74.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -41,7 +41,7 @@
     "static/media/Character_Avatar5.65a9bcae.png": "/static/media/Character_Avatar5.65a9bcae.png",
     "static/media/Character_Avatar6.1b34f9f6.png": "/static/media/Character_Avatar6.1b34f9f6.png",
     "static/media/Character_Avatar7.6fd14849.png": "/static/media/Character_Avatar7.6fd14849.png",
-    "static/media/Home.scss": "/static/media/play_bg.052fa4b0.png",
+    "static/media/Home.scss": "/static/media/play_mobile_bg.77c4adbf.png",
     "static/media/ContributAndGain.f061001a.mp4": "/static/media/ContributAndGain.f061001a.mp4",
     "static/media/RaidAndLoot.add0e749.mp4": "/static/media/RaidAndLoot.add0e749.mp4",
     "static/media/index.css": "/static/media/ff-monteral-02.d21d560c.woff",
@@ -96,8 +96,8 @@
     "static/media/box2.28175edd.webm": "/static/media/box2.28175edd.webm",
     "static/media/box3.5787eddc.webm": "/static/media/box3.5787eddc.webm",
     "static/media/element1.15b6162a.webm": "/static/media/element1.15b6162a.webm",
-    "static/media/element2.ae808c98.png": "/static/media/element2.ae808c98.png",
-    "static/media/element3.23514e55.png": "/static/media/element3.23514e55.png",
+    "static/media/element2.d1d01572.png": "/static/media/element2.d1d01572.png",
+    "static/media/element3.f85e35e7.png": "/static/media/element3.f85e35e7.png",
     "static/media/icon1.6d173d25.png": "/static/media/icon1.6d173d25.png",
     "static/media/icon2.4eac161a.png": "/static/media/icon2.4eac161a.png",
     "static/media/icon3.6c2080d4.png": "/static/media/icon3.6c2080d4.png",
@@ -118,7 +118,7 @@
     "static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
-    "static/css/main.2bf87f56.chunk.css",
-    "static/js/main.d0d2cae8.chunk.js"
+    "static/css/main.102754d8.chunk.css",
+    "static/js/main.5c62aa74.chunk.js"
   ]
 }
