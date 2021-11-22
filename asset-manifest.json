@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
-    "main.css": "/static/css/main.c925b651.chunk.css",
-    "main.js": "/static/js/main.12c1755a.chunk.js",
+    "main.css": "/static/css/main.6c13b100.chunk.css",
+    "main.js": "/static/js/main.f7666f18.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -105,6 +105,7 @@
     "static/media/image1.b5c79d22.png": "/static/media/image1.b5c79d22.png",
     "static/media/image2.55951579.png": "/static/media/image2.55951579.png",
     "static/media/image3.619dc92c.png": "/static/media/image3.619dc92c.png",
+    "static/media/infinity_capital.4608c2fc.png": "/static/media/infinity_capital.4608c2fc.png",
     "static/media/info.6b1f890a.svg": "/static/media/info.6b1f890a.svg",
     "static/media/nft-dark.4c3f1f3a.png": "/static/media/nft-dark.4c3f1f3a.png",
     "static/media/nft-shine.4320e533.png": "/static/media/nft-shine.4320e533.png",
@@ -119,7 +120,7 @@
     "static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
-    "static/css/main.c925b651.chunk.css",
-    "static/js/main.12c1755a.chunk.js"
+    "static/css/main.6c13b100.chunk.css",
+    "static/js/main.f7666f18.chunk.js"
   ]
 }
