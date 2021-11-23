@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
-    "main.css": "/static/css/main.851082e5.chunk.css",
-    "main.js": "/static/js/main.40ac19a3.chunk.js",
+    "main.css": "/static/css/main.442c9c3f.chunk.css",
+    "main.js": "/static/js/main.360ef4cb.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -114,13 +114,14 @@
     "static/media/playtoearn-bg.d9508f00.png": "/static/media/playtoearn-bg.d9508f00.png",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/title-home.ae83b873.png": "/static/media/title-home.ae83b873.png",
-    "static/media/trade_title.6b65ac57.png": "/static/media/trade_title.6b65ac57.png"
+    "static/media/trade_title.6b65ac57.png": "/static/media/trade_title.6b65ac57.png",
+    "static/media/ybbfoundation.c3b2e428.png": "/static/media/ybbfoundation.c3b2e428.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
-    "static/css/main.851082e5.chunk.css",
-    "static/js/main.40ac19a3.chunk.js"
+    "static/css/main.442c9c3f.chunk.css",
+    "static/js/main.360ef4cb.chunk.js"
   ]
 }
