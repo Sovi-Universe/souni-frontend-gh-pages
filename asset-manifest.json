@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
-    "main.css": "/static/css/main.e69a52bf.chunk.css",
-    "main.js": "/static/js/main.a4fe4e02.chunk.js",
+    "main.css": "/static/css/main.635153b4.chunk.css",
+    "main.js": "/static/js/main.270d2ba3.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -107,6 +107,7 @@
     "static/media/image3.619dc92c.png": "/static/media/image3.619dc92c.png",
     "static/media/infinity_capital.4608c2fc.png": "/static/media/infinity_capital.4608c2fc.png",
     "static/media/info.6b1f890a.svg": "/static/media/info.6b1f890a.svg",
+    "static/media/logochinapolkabig.39efa159.png": "/static/media/logochinapolkabig.39efa159.png",
     "static/media/nft-dark.4c3f1f3a.png": "/static/media/nft-dark.4c3f1f3a.png",
     "static/media/nft-shine.4320e533.png": "/static/media/nft-shine.4320e533.png",
     "static/media/play-btn-light.43681d0e.png": "/static/media/play-btn-light.43681d0e.png",
@@ -121,7 +122,7 @@
     "static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
-    "static/css/main.e69a52bf.chunk.css",
-    "static/js/main.a4fe4e02.chunk.js"
+    "static/css/main.635153b4.chunk.css",
+    "static/js/main.270d2ba3.chunk.js"
   ]
 }
