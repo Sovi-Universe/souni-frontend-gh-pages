@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
-    "main.css": "/static/css/main.c466f5d8.chunk.css",
-    "main.js": "/static/js/main.2134a50c.chunk.js",
+    "main.css": "/static/css/main.a8d0bcac.chunk.css",
+    "main.js": "/static/js/main.12218f5f.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -21,16 +21,22 @@
     "static/js/9.471b8100.chunk.js.LICENSE.txt": "/static/js/9.471b8100.chunk.js.LICENSE.txt",
     "static/media/Border.23fe5649.png": "/static/media/Border.23fe5649.png",
     "static/media/Character1-Mobile.0d3edfbf.png": "/static/media/Character1-Mobile.0d3edfbf.png",
+    "static/media/Character1.4dfa0349.webm": "/static/media/Character1.4dfa0349.webm",
     "static/media/Character1.c236aff5.png": "/static/media/Character1.c236aff5.png",
     "static/media/Character2-Mobile.f9f118c6.png": "/static/media/Character2-Mobile.f9f118c6.png",
+    "static/media/Character2.aab72c88.webm": "/static/media/Character2.aab72c88.webm",
     "static/media/Character2.faa5844f.png": "/static/media/Character2.faa5844f.png",
     "static/media/Character3-Mobile.2ee60c77.png": "/static/media/Character3-Mobile.2ee60c77.png",
     "static/media/Character3.a37a3b31.png": "/static/media/Character3.a37a3b31.png",
+    "static/media/Character3.da7719f8.webm": "/static/media/Character3.da7719f8.webm",
     "static/media/Character4-Mobile.4193bbd5.png": "/static/media/Character4-Mobile.4193bbd5.png",
+    "static/media/Character4.13afafbe.webm": "/static/media/Character4.13afafbe.webm",
     "static/media/Character4.655d856f.png": "/static/media/Character4.655d856f.png",
     "static/media/Character5-Mobile.cf486cfb.png": "/static/media/Character5-Mobile.cf486cfb.png",
     "static/media/Character5.205bcae7.png": "/static/media/Character5.205bcae7.png",
+    "static/media/Character5.ed946dca.webm": "/static/media/Character5.ed946dca.webm",
     "static/media/Character7-Mobile.cfd49743.png": "/static/media/Character7-Mobile.cfd49743.png",
+    "static/media/Character7.0d4e4114.webm": "/static/media/Character7.0d4e4114.webm",
     "static/media/Character7.19fb2229.png": "/static/media/Character7.19fb2229.png",
     "static/media/Character_Avatar1.ea6def56.png": "/static/media/Character_Avatar1.ea6def56.png",
     "static/media/Character_Avatar2.b12f3c3b.png": "/static/media/Character_Avatar2.b12f3c3b.png",
@@ -98,6 +104,7 @@
     "static/media/element1.be99d1ba.webm": "/static/media/element1.be99d1ba.webm",
     "static/media/element2.a9e2a426.png": "/static/media/element2.a9e2a426.png",
     "static/media/element3.4754935f.png": "/static/media/element3.4754935f.png",
+    "static/media/goodgameguild.83a8792c.png": "/static/media/goodgameguild.83a8792c.png",
     "static/media/icon1.6d173d25.png": "/static/media/icon1.6d173d25.png",
     "static/media/icon2.4eac161a.png": "/static/media/icon2.4eac161a.png",
     "static/media/icon3.6c2080d4.png": "/static/media/icon3.6c2080d4.png",
@@ -121,7 +128,7 @@
     "static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
-    "static/css/main.c466f5d8.chunk.css",
-    "static/js/main.2134a50c.chunk.js"
+    "static/css/main.a8d0bcac.chunk.css",
+    "static/js/main.12218f5f.chunk.js"
   ]
 }
