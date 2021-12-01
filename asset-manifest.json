@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
-    "main.css": "/static/css/main.d8b138b1.chunk.css",
-    "main.js": "/static/js/main.a12b5f46.chunk.js",
+    "main.css": "/static/css/main.1c5d1df9.chunk.css",
+    "main.js": "/static/js/main.4ea94734.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -104,7 +104,6 @@
     "static/media/element1.be99d1ba.webm": "/static/media/element1.be99d1ba.webm",
     "static/media/element2.a9e2a426.png": "/static/media/element2.a9e2a426.png",
     "static/media/element3.4754935f.png": "/static/media/element3.4754935f.png",
-    "static/media/goodgameguild.83a8792c.png": "/static/media/goodgameguild.83a8792c.png",
     "static/media/icon1.6d173d25.png": "/static/media/icon1.6d173d25.png",
     "static/media/icon2.4eac161a.png": "/static/media/icon2.4eac161a.png",
     "static/media/icon3.6c2080d4.png": "/static/media/icon3.6c2080d4.png",
@@ -128,7 +127,7 @@
     "static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
-    "static/css/main.d8b138b1.chunk.css",
-    "static/js/main.a12b5f46.chunk.js"
+    "static/css/main.1c5d1df9.chunk.css",
+    "static/js/main.4ea94734.chunk.js"
   ]
 }
