@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
-    "main.css": "/static/css/main.ecbeace7.chunk.css",
-    "main.js": "/static/js/main.9c290eb2.chunk.js",
+    "main.css": "/static/css/main.262db5db.chunk.css",
+    "main.js": "/static/js/main.655f6d26.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -52,6 +52,7 @@
     "static/media/Shield_Character.339fd521.png": "/static/media/Shield_Character.339fd521.png",
     "static/media/Shield_decentralized.c8fe2383.png": "/static/media/Shield_decentralized.c8fe2383.png",
     "static/media/Souni trailer video finish.80ebcddd.mp4": "/static/media/Souni trailer video finish.80ebcddd.mp4",
+    "static/media/VBCVentures.edf8cf22.png": "/static/media/VBCVentures.edf8cf22.png",
     "static/media/banner3.135234a8.png": "/static/media/banner3.135234a8.png",
     "static/media/battle1.736fe489.png": "/static/media/battle1.736fe489.png",
     "static/media/battle1_bg.3de692d2.png": "/static/media/battle1_bg.3de692d2.png",
@@ -127,7 +128,7 @@
     "static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
-    "static/css/main.ecbeace7.chunk.css",
-    "static/js/main.9c290eb2.chunk.js"
+    "static/css/main.262db5db.chunk.css",
+    "static/js/main.655f6d26.chunk.js"
   ]
 }
